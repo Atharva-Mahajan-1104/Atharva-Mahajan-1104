@@ -1,30 +1,59 @@
-# 👋 **Hi, I’m Atharva Mahajan**
+# <img src="https://media.giphy.com/media/Vh13GJkghVxt2dMfhp/giphy.gif" width="50px"> **Atharva Mahajan**
 
-I’m a **Computer Science Engineering** student with a passion for **backend development** and building impactful projects. Currently diving deep into **Java**, **Spring Boot**, and **React.js** to create full-stack applications that solve real-world problems.
+> *"First solve the problem. Then write the code." - John Johnson*
 
-## 🌟 **What I’m Working On**
-
-- **BizLens**: A platform offering businesses actionable insights from bill analysis.
-- **UniConnect**: A service connecting students with local services like transportation and laundry.
-- **Library App**: A library management system designed for seamless book management.
-
-## 🛠️ **Skills & Tools**
-
-- **Languages**: Java, TypeScript, JavaScript
-- **Frontend**: React.js, HTML, CSS, Bootstrap
-- **Backend**: Spring Boot, Java
-- **Databases**: MySQL
-- **Tools & Frameworks**: Axios, Vite, Docker, JUnit, Mockito, Wouter
-- **Version Control**: Git, GitHub
-
-## 📣 **Let’s Connect!**
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/atharva-mahajan-ab725b25a)
-- 📧 [Email](mailto:atharvamahajan2004@gmail.com)
+I'm a **Computer Science Engineering** student specializing in **backend development**, currently mastering **Java**, **Spring Boot**, and **React.js** to build full-stack solutions.
 
 ---
 
-### 🌈 **Check Out This Animation!**
-![Coding Animation](https://media.giphy.com/media/Vh13GJkghVxt2dMfhp/giphy.gif)
+## 🔥 **Active Projects**
 
-### 🎯 **On a mission to build cool stuff and keep learning!**
+### **BizLens**  
+`Spring Boot` `React` `MySQL`  
+Business intelligence platform transforming raw bills into actionable insights
+
+### **UniConnect**  
+`Java` `TypeScript` `Axios`  
+Digital marketplace connecting students with campus services
+
+### **Library App**  
+`Spring Boot` `React` `Docker`  
+Modern library management system with automated workflows
+
+---
+
+## 🛠 **Tech Stack**
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+### **Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🌍 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://www.linkedin.com/in/atharva-mahajan-ab725b25a)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:atharvamahajan2004@gmail.com)
+
+---
+
+<div align="center">
+  
+```java
+public class Mission {
+  public static void main(String[] args) {
+    while(true) {
+      buildCoolStuff();
+      keepLearning();
+    }
+  }
+}</div> ```
