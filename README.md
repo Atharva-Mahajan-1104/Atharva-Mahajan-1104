@@ -1,10 +1,7 @@
-# <div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="50px" alt="coding animation">
-  <h1>Atharva Mahajan</h1>
-</div>
-*"First solve the problem. Then write the code." - John Johnson*
+ # <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="50px"> **Atharva Mahajan**
+---
 
-I'm a **Computer Science Engineering** student specializing in **backend development**, currently mastering **Java**, **Spring Boot**, and **React.js** to build full-stack solutions.
+**Full-stack sorcerer** specializing in crafting bulletproof backends with Spring Boot magic, while occasionally conjuring up React interfaces. Currently on a quest to build systems that don't just work, but *sing*.
 
 ---
 
