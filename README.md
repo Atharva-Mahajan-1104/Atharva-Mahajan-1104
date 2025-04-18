@@ -46,9 +46,6 @@ Modern library management system with automated workflows
 
 ---
 
-<div align="center">
-  
-```java
 public class Mission {
   public static void main(String[] args) {
     while(true) {
@@ -56,5 +53,5 @@ public class Mission {
       keepLearning();
     }
   }
-}</div> ```
+}
 ---
