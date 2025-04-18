@@ -1,6 +1,7 @@
-# <img src="https://media.giphy.com/media/Vh13GJkghVxt2dMfhp/giphy.gif" width="50px"> **Atharva Mahajan**
-
-> *"First solve the problem. Then write the code." - John Johnson*
+# <div align="center">
+  <img src="https://media.giphy.com/media/Vh13GJkghVxt2dMfhp/giphy.gif" width="150">
+  <h1>Atharva Mahajan</h1>
+</div>*"First solve the problem. Then write the code." - John Johnson*
 
 I'm a **Computer Science Engineering** student specializing in **backend development**, currently mastering **Java**, **Spring Boot**, and **React.js** to build full-stack solutions.
 
