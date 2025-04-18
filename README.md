@@ -6,6 +6,7 @@ I’m a **Computer Science Engineering** student with a passion for **backend de
 
 - **BizLens**: A platform offering businesses actionable insights from bill analysis.
 - **UniConnect**: A service connecting students with local services like transportation and laundry.
+- **Library App**: A library management system designed for seamless book management.
 
 ## 🛠️ **Skills & Tools**
 
@@ -20,5 +21,10 @@ I’m a **Computer Science Engineering** student with a passion for **backend de
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/atharva-mahajan-ab725b25a)
 - 📧 [Email](mailto:atharvamahajan2004@gmail.com)
+
+---
+
+### 🌈 **Check Out This Animation!**
+![Coding Animation](https://media.giphy.com/media/Vh13GJkghVxt2dMfhp/giphy.gif)
 
 ### 🎯 **On a mission to build cool stuff and keep learning!**
