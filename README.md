@@ -44,8 +44,9 @@ Modern library management system with automated workflows
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://www.linkedin.com/in/atharva-mahajan-ab725b25a)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:atharvamahajan2004@gmail.com)
 
----
+<div align="center">
 
+```java
 public class Mission {
   public static void main(String[] args) {
     while(true) {
@@ -54,4 +55,6 @@ public class Mission {
     }
   }
 }
----
+```
+
+</div>
