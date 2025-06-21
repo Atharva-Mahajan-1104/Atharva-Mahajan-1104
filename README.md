@@ -7,17 +7,13 @@
 
 ## 🔥 **Active Projects**
 
-### **BizLens**  
-`Spring Boot` `React` `MySQL`  
-Business intelligence platform transforming raw bills into actionable insights
+### **AI Interview Coach**  
+  
+AI-powered platform offering real-time feedback, analysis, and insights to improve interview performance.
 
-### **UniConnect**  
-`Java` `TypeScript` `Axios`  
-Digital marketplace connecting students with campus services
+### **AplaVyapari** *(Under Development)*  
 
-### **Library App**  
-`Spring Boot` `React` `Docker`  
-Modern library management system with automated workflows
+A local commerce platform connecting Marathi-speaking entrepreneurs with regional customers.
 
 ---
 
