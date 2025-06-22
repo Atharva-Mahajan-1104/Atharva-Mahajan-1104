@@ -31,6 +31,7 @@ A local commerce platform connecting Marathi-speaking entrepreneurs with regiona
 ### **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
