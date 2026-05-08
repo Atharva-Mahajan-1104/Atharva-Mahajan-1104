@@ -11,10 +11,6 @@
   `React` `Tailwind CSS` `OpenAI API`  
 AI-powered platform offering real-time feedback, analysis, and insights to improve interview performance.
 
-### **🌟AplaVyapari** *(Under Development)*  
-`Express.js` `MongoDB` `React`  
-A local commerce platform connecting Marathi-speaking entrepreneurs with regional customers.
-
 ---
 
 ## 🛠 **Tech Stack**
